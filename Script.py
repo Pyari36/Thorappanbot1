@@ -4,7 +4,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/+wHX4yUfmj91iNmJl>𝙵𝙸𝙻𝙼𝚈 𝙷𝙰𝚁𝙱𝙾𝚄𝚁</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MMmoviemania3>𝙵𝙸𝙻𝙼𝚈 𝙷𝙰𝚁𝙱𝙾𝚄𝚁</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -12,9 +12,9 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.3 [ 𝚂𝚃𝙰𝙱𝙻𝙴 ]"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- 𝐒𝐨𝐮𝐫𝐜𝐞 - <a href="https://github.com/Joelkb/DQ-The-File-Donor">ʜᴇʀᴇ</a>
+- 𝐒𝐨𝐮𝐫𝐜𝐞 - <a href="https://github.com/Pyari36/Thorappanbot">ʜᴇʀᴇ</a>
 𝐃𝐄𝐕𝐒:
-- <a href="https://t.me/creatorbeatz">Jᴏᴇʟ ᠰ TɢX</a></b>"""
+- <a href="https://t.me/rahul_pyari">Jᴏᴇʟ ᠰ TɢX</a></b>"""
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -39,7 +39,7 @@ class script(object):
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/filmy_harbour)</code>
+<code>[Button Text](buttonurl:https://t.me/MMmoviemania3)</code>
 
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
@@ -128,7 +128,7 @@ TOP_ALRT_MSG = """𝐂𝐡𝐞𝐜𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐦𝐨𝐯𝐢
 
 MELCOW_ENG = """<b>Hello {}😍, and welcome to {} Group.❤️
 
-Join our <a href='https://t.me/+LJRsBp82HiJhNDhl'>main channel</a> below to get access to the movies. Before requesting the movies, Must join our main channel. Only by joining will you get access to all the movies...
+Join our <a href='https://t.me/MMottmoviez'>main channel</a> below to get access to the movies. Before requesting the movies, Must join our main channel. Only by joining will you get access to all the movies...
 
 NB: You can only get the movie by typing in the correct spelling...
 
@@ -152,6 +152,6 @@ OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorbeatz
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ᴜꜱᴇʀɴᴀᴍᴇ : @rahul_pyari
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/rahul_pyari'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
