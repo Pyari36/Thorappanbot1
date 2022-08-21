@@ -144,14 +144,14 @@ Do not contact Admin directly...
 
 If you want to contact Admin, Please send the message to @assistant_m4_bot and the bot will deliver the message to the group Admin...
 
-<a href='https://t.me/filmy_harbour_support'>If you are facing any problems with our movie files, bots or groups, report it in our support group @filmy_harbour_support</a>
+<a href='https://t.me/MMmoviemania3'>If you are facing any problems with our movie files, bots or groups, report it in our support group @MMmoviemania3</a>
 
 For admin support type @admins with your message and the bot will forward the message to the admin...</b>"""
 
 OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
+• ꜰᴜʟʟ ɴᴀᴍᴇ : RAHUL PYARI
 • ᴜꜱᴇʀɴᴀᴍᴇ : @rahul_pyari
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/rahul_pyari'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
